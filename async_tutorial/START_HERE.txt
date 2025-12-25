@@ -1,0 +1,58 @@
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║          🎓 ASYNC/SYNC PROGRAMMING MASTERCLASS FOR SENIOR ENGINEERS 🎓   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+Welcome! This tutorial teaches async/sync programming from first principles.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 QUICK START (3 COMMANDS)
+
+1. pip install -r requirements.txt
+2. python 01_sync_basics.py
+3. python BONUS_fastapi_async.py  (Apply to your FastAPI project!)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 LESSONS (Follow in order)
+
+Core Curriculum:
+  1. 01_sync_basics.py              ← START HERE
+  2. 02_event_loop_explained.py
+  3. 03_async_fundamentals.py
+  4. 04_threading_vs_async.py
+
+Apply Knowledge:
+  5. BONUS_fastapi_async.py         ← FIX YOUR FASTAPI APP
+
+Reference:
+  • QUICK_REFERENCE.py              ← Cheat sheet
+  • GETTING_STARTED.md              ← Full guide
+  • README.md                       ← Overview
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 WHAT YOU'LL LEARN
+
+✓ Event loop internals (the heart of async)
+✓ Coroutines, tasks, and scheduling
+✓ When to use async vs threading vs multiprocessing
+✓ How to fix blocking code in FastAPI
+✓ Production patterns and best practices
+
+Time: 4-5 hours total | Format: Interactive | Level: Intermediate-Advanced
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 KEY TAKEAWAY
+
+Async = Single-threaded concurrency through cooperative multitasking
+Perfect for I/O-bound high-concurrency tasks (like your FastAPI + Bedrock!)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Ready to master async? Run: python 01_sync_basics.py
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
