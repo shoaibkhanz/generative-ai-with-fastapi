@@ -3,11 +3,13 @@ name = "genai-with-fastapi"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "aiofiles>=25.1.0",
     "boto3>=1.42.9",
     "fastapi[standard]>=0.124.4",
     "loguru>=0.7.3",
     "marimo>=0.18.4",
     "pydantic-ai>=1.31.0",
+    "python-multipart>=0.0.20",
     "soundfile>=0.13.1",
     "streamlit>=1.52.2",
     "tiktoken>=0.12.0",
